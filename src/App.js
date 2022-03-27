@@ -1,11 +1,10 @@
 import './App.less';
-import { DatePicker } from 'antd';
+import ApplicationLayout from './layout/applicationLayout';
 
 function App() {
   return (
     <div className="App">
-      <DatePicker />
-      <h1 className="text-3xl font-bold">Hello world!</h1>
+      <ApplicationLayout />
     </div>
   );
 }
