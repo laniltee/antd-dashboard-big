@@ -1,5 +1,5 @@
 import './App.less';
-import ApplicationLayout from './layout/layout';
+import ApplicationLayout from './layout/applicationLayout';
 
 function App() {
   return (
